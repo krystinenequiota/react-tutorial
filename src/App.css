@@ -1,0 +1,45 @@
+.app {
+  background: linear-gradient(180deg, #2d033b, #810ca8, #c147e9, #5b247a);
+  color: white;
+  font-family: "Inter", sans-serif;
+  min-height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center; 
+  text-align: center;
+
+  padding: 40px 20px;
+  box-sizing: border-box;
+}
+
+.app-header {
+  max-width: 900px;
+  margin-bottom: 50px;
+}
+
+.app-header h1 {
+  font-size: 2.8rem;
+  color: #f5d0fe;
+  margin-bottom: 15px;
+}
+
+.app-header p {
+  color: #e5d1fa;
+  font-size: 1rem;
+  line-height: 1.6;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.profiles-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 30px;
+
+  justify-items: center;
+  align-items: start;
+  width: 100%;
+  max-width: 1000px;
+}
