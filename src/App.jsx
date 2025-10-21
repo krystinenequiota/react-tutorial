@@ -50,7 +50,7 @@ const profiles = [
     name: "Sabrina Carpenter",
     title: "Pop Artist & Performer",
     cover:
-      "https://w0.peakpx.com/wallpaper/800/138/HD-wallpaper-sabrina-carpenter-another-06-celebrity-actress-music-people-singer-sabrina-carpenter.jpg",
+      "https://4kwallpapers.com/images/wallpapers/sabrina-carpenter-2560x1080-17442.jpg",
     image: "https://hips.hearstapps.com/hmg-prod/images/sabrina-carpenter-attends-the-2024-mtv-video-music-awards-news-photo-1727886045.jpg?crop=0.828xw:0.553xh;0.109xw,0.0386xh&resize=640:*",
     bio: "With her smooth vocals and playful confidence, Sabrina blends pop and storytelling into an irresistible sound.",
     gender: "Female",
@@ -65,7 +65,7 @@ const profiles = [
     name: "Chappell Roan",
     title: "Pop Singer & Songwriter",
     cover:
-      "https://wallpapers4screen.com/Uploads/22-3-2025/70175/thumb2-chappell-roan-4k-american-singer-music-stars-beauty.jpg",
+      "https://media.them.us/photos/66670707d639848942915780/16:9/w_2560%2Cc_limit/chappell-roan.jpg",
     image: "https://i0.wp.com/industryme.co.uk/wp-content/uploads/2024/06/Chappell.jpeg?fit=640%2C640&ssl=1",
     bio: "An unapologetically bold performer bringing theatricality, honesty, and empowerment to the queer pop scene.",
     gender: "Female",
